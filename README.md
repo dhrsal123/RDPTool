@@ -1,1 +1,1 @@
-Files on the Sever/ folder are made for the attacker, files on the root folder are made for the client.
+This program is made only for testing, im not responsible for any unlawful behaviour that the user may engage in while using this program.
